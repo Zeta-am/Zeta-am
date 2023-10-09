@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zeta-am
-- 👀 I’m interested in Computer Science, especially in CyberSecurity
-- 🌱 I’m currently learning Computer Science at university and some cybersecurity stuff on my own
-- 💞️ I’m looking to collaborate on ...🙊
+- 🌱 I’m currently learning Computer Science at university
 - 📫 How to reach me muso.am@gmail.com
 
 <!---
